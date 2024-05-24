@@ -5,20 +5,6 @@ Created on Sat Apr 13 09:35:22 2024
 @author: hp
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 30 16:25:50 2023
-
-@author: 28300
-"""
-
-# Reconnecting Top-l Relationships 
-# Copyright (c) 2022 JadeRay. All Rights Reserved.
-# Licensed under the Creative Commons BY-NC-ND 4.0 International License [see LICENSE for details]
-
-"""
-Reconnecting Top-l Relationships (RTlR) query
-"""
 
 import random
 import json
